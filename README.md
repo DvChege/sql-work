@@ -37,5 +37,5 @@ This repository contains a beginner-friendly SQL assignment focused on learning 
 
 ## ✅ Author
 
-Prepared by: Bashir Chege  
+Prepared by: Josphat Chege  
 For educational use only.
